@@ -21,3 +21,19 @@ Wat ik lastig vind:
 
 Kortom, ik moet beginnen bij de basis.
 
+
+## dinsdag
+
+**Gemaakte opdracht**
+
+nog geen gemaakte opdrachten
+
+**Evaluatie**
+
+2e lesdag. Vandaag zijn we begonnen met functionele programmeerpatronen in JavaScrip. Eerste opzichte leek het allemaal wel logisch, maar als ik er zlef mee aan de slag ging liep ik wel vast. Tijdens de les is het ook gebleken dat de functionele programmeerpatronen bijna het enige code is wat je nodig hebt voor dit vak. Dat was wel fijn om te weten, want het leek niet al te moeilijk en te veel. 
+
+
+## woensdag en donderdag
+
+
+## vrijdag
