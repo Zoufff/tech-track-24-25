@@ -4,6 +4,7 @@
 ## maandag
 
 **Gemaakte opdracht**
+
 ComplexObjects (zie map)
 
 **Evaluatie**
