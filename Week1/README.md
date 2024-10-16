@@ -26,7 +26,7 @@ Kortom, ik moet beginnen bij de basis.
 
 **Gemaakte opdracht**
 
-nog geen gemaakte opdrachten
+nog geen gemaakte opdrachten. (bekijk de slide welke opdrachten je moet maken).
 
 **Evaluatie**
 
