@@ -35,5 +35,7 @@ nog geen gemaakte opdrachten. (bekijk de slide welke opdrachten je moet maken).
 
 ## woensdag en donderdag
 
+Zelstudie. Ik heb geoefend met javascript en de opdrachten van deze week proberen te maken. Ik ben begonnen met de basisstof en langzamerhand ben ik verder gaan oefenen met de weekopdrachten. Ik kan nu redelijk Javascript begrijpen. Ik heb ook enkele cursusen op Youtoube gevolgd die mij goed hebben geholpen. 
+
 
 ## vrijdag
