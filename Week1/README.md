@@ -42,7 +42,7 @@ Zelstudie. Ik heb geoefend met javascript en de opdrachten van deze week probere
 
 Tijdens deze les ben bezig geweest met het oefenen met export en import in javascript. Ik heb opdrachten gemaakt.
 
-Ik heb nagedacht over welke onderwerp ik wil gaan gebruiken voor dit vak. Ik heb gekozen voor Wereldwijde sterftecijfers die ik weer kan onderddelen in categorien zoals reden van sterfte en leeftijdsklasse. Doelen van mijn visualisatie is het overzicht geven over waar de meeste sterftecijfers zijn op de wereld en wat hiervan de reden is.
+Ik heb nagedacht over welke onderwerp ik wil gaan gebruiken voor dit vak. Ik heb gekozen voor Wereldwijde kindersterftecijfers die ik weer kan onderddelen in categorien zoals reden van sterfte en landen. Doelen van mijn visualisatie is het overzicht geven over waar de meeste kindersterfte is op de wereld en wat hiervan de reden is.
 
 Ik denk dat ik 2 datavisualisatie ga gebruiken.
 
