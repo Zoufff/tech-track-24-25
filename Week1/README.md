@@ -49,3 +49,19 @@ Ik denk dat ik 2 datavisualisatie ga gebruiken.
 1 datavisualisatie van wereldkaart waar je de sterftes kunt zien en ook kun je zien waar de meeste sterftecijfers zijn. deze is interavtief en er kan gehoverd worden om annotaties te kunnen lezen.
 
 1 datavisualisatie van de factoren van sterfte in de wereld. Overzicht maken van wat de reden van de sterftecijfers zijn. 
+
+ik ben vervolgens opzoek gegaan naar geschikte API'S
+
+voorbereiding voor de volgende les: 
+
+• Ga opzoek naar een goede dataset
+
+• Waarom deze dataset? Waarom dit onderwerp?
+
+• Wat is je onderzoeksvraag bij de dataset?
+
+• Hoe is de documentatie van de API?
+
+• Is de dataset dynamisch en up-to-date?
+
+• Welke formaten geeft de API terug qua data?
