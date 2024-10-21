@@ -55,12 +55,28 @@ ik ben vervolgens opzoek gegaan naar geschikte API'S
 voorbereiding voor de volgende les: 
 
 • Ga opzoek naar een goede dataset
+Ik heb een geschikte dataset gevonden op de site van World Heath Organisation (WHO)
+
+https://www.who.int/news-room/fact-sheets/detail/levels-and-trends-in-child-under-5-mortality-in-2020
+
+https://www.who.int/data/gho/info/athena-api
+
+https://www.who.int/data/gho/info/athena-api-examples
+
 
 • Waarom deze dataset? Waarom dit onderwerp?
 
+Ik heb voor dit onderwerp gekozen omdat ik denk dat ik hierover een goed en mooi storytelling kan van maken. Daarnaast weet ik niet zo veel over het onderwerp en ik er meer over wil weten, want helaas is het nogsteeds iets van deze tijd, maar hoe komt dat en welke landen lijdt er het meeste onder?
+
+
 • Wat is je onderzoeksvraag bij de dataset?
 
+Hoe hebben de kindersterftecijfers zich ontwikkeld in verschillende landen van de wereld tussen 1990 en 2023, en welke factoren lijken samen te hangen met de hoogste en laagste sterftecijfers?
+
 • Hoe is de documentatie van de API?
+
+dit is de API: https://ghoapi.azureedge.net/athena/api/GHO/U5MR
+
 
 • Is de dataset dynamisch en up-to-date?
 
