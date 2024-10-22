@@ -75,9 +75,12 @@ Hoe hebben de kindersterftecijfers zich ontwikkeld in verschillende landen van d
 
 • Hoe is de documentatie van de API?
 
-dit is de API: https://ghoapi.azureedge.net/athena/api/GHO/U5MR
-
+dit is de API: http://apps.who.int/gho/athena/api/GHO/WHOSIS_000005.json
 
 • Is de dataset dynamisch en up-to-date?
 
+Ja, WHO update regelmatig de data. 
+
 • Welke formaten geeft de API terug qua data?
+
+COUNTRY, REGION, YEAR, SEX
